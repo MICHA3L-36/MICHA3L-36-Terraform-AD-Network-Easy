@@ -178,7 +178,7 @@ Provides the public IPs of all instances for RDP/SSH connections.
    * `ami-xxxxxxxx` → Windows AMI ID
    * `my-key` → Your EC2 key pair
    * `YOUR_PUBLIC_IP` → Your public IP with `/32`
-2. Initialize Terraform:
+2. Place files into VS Code Folder and initialize Terraform from terminal:
 
 ```hcl
 terraform init
