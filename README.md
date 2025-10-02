@@ -4,6 +4,8 @@
 This repository provides a **simple lab deployment** using Terraform on AWS.  
 It creates a **VPC, subnet, 1 Domain Controller, and 2 Windows workstations**, intended for to practice pentesting Active Directory, RDP, SSH, and IIS.
 
+NOTE! You need to setup the Windows servers in AWS Console and then put the AMI and Key Pair in the fields below, this terraform project won't configure the OS installation!
+
 ---
 
 ## Features
