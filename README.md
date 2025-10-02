@@ -1,7 +1,7 @@
 # Home Active Directory Lab Deployment with Terraform
 
 
-This repository provides a **simple home lab deployment** using Terraform on AWS.  
+This repository provides a **simple lab deployment** using Terraform on AWS.  
 It creates a **VPC, subnet, 1 Domain Controller, and 2 Windows workstations**, intended for to practice pentesting Active Directory, RDP, SSH, and IIS.
 
 ---
